@@ -2,8 +2,8 @@
     "BOT": "Hi there!\nFrreeeedddd\n![freeedddd](http://i.imgur.com/dZ6WcbZ.gif)\nWhat do you want to do? %[I want to buy a bag](postback:buy_a_bag) %[Learn about Fred](postback:learn_about_fred) %[One random fact!](postback:random_fact)",
     "I WANT TO BUY A BAG": "Okay, why not after all... %[HandBag - Product Page](https://smoochdemo.myshopify.com/collections/accessories/products/handbag)",
     "ONE RANDOM FACT!":"Summer is great"
-    "LEARN ABOUT FRED": "I honestly don't know much about Fred. Apparently, he works at http://smooch.io",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "LEARN ABOUT FRED":"I honestly don't know much about Fred. Apparently, he works at http://smooch.io",
+    "I LOVE YOU":"Awh, shucks! I love you too!",
     "HELP":"Why??"
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
